@@ -1,0 +1,8 @@
+venv/
+coreml_env/
+__pycache__/
+*.pyc
+*.so
+*.dylib
+.DS_Store
+.ipynb_checkpoints/
