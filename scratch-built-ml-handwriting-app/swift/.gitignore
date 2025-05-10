@@ -1,0 +1,42 @@
+# macOS system files and directories
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Configuration files
+.config/
+.gitconfig
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshrc
+
+# IDE and editor specific files
+.vscode/
+
+# Temporary files
+.CFUserTextEncoding
+.idlerc/
+.lesshst
+.python_history
+.swiftpm/
+
+# Applications and documents
+Applications/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+# Other specific files
+*.localized
+*JSSD*.key
+KSS.key
+WechatIMG*.jpeg
+*\*.key
+*2024-04-*.png
+*\350\212\235\346\265\246\345\267\245/
+wq

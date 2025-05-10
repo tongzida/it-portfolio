@@ -1,0 +1,19 @@
+# 忽略虚拟环境文件夹
+venv/
+coreml_env/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 动态链接库
+*.so
+*.dylib
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
